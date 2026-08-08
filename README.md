@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Shreyash Maurya**, a Computer Science & Engineering student and aspiring **Software Engineer / Java Backend Developer**.<br><br>I enjoy building practical software, solving problems with **Java and Data Structures & Algorithms**, and learning how backend systems work. I'm particularly interested in **Java backend development, databases, and building reliable applications**.<br><br><br>### 🎯 Currently<br><br>I'm focused on becoming a strong **Java Backend / Software Engineer**, improving my problem-solving skills, strengthening my CS fundamentals, and building projects that solve real-world problems.<br><br>> **Learn → Build → Solve → Improve.**<br>
+# 👋 Hi, I'm Shreyash Maurya<br><br>### 🎓 Computer Science & Engineering Student<br>### 💻 Aspiring Java Backend Developer & Software Engineer<br><br>🔭 **What I Do**  <br>I build practical applications using **Java, JDBC & MySQL** and strengthen my problem-solving skills through **Data Structures & Algorithms**.<br><br>🚀 **What I'm Working Towards**  <br>Becoming a strong **Java Backend / Software Engineer** by building real-world projects, improving my fundamentals, and continuously learning.<br><br><br>🌱 **Currently Learning**  <br>**Backend Development • DSA • Core CS • Software Engineering**<br><br>> **Learn. Build. Solve. Improve.**
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mauryashreyash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://komarev.com/ghpvc/?username=mauryashreyash&icon=0&color=0)](https://visitcount.itsvg.in)
