@@ -1,6 +1,4 @@
-# 💫 About Me:
-**Hi 👋, I'm Shreyash Maurya**<br><br>*Computer Science & Engineering Student*<br><br>💻 Aspiring **Java Backend Developer & Software Engineer**<br><br>**🎯 Current Focus**<br><br>- Strengthening **Java & DSA** for problem-solving<br>- Learning **Spring Boot, REST APIs & MySQL**<br>- Exploring **JavaScript & React** for full-stack development<br>- Building practical projects and improving **software engineering skills**<br><br>📍 Uttar Pradesh, India
-
+**Hi 👋, I'm Shreyash Maurya**<br><br>*Computer Science & Engineering Student*<br><br>💻 Aspiring **Java Backend Developer & Software Engineer**<br><br>**🎯 Current Focus**<br><br>- Strengthening **Java & DSA** for problem-solving<br>- Learning **Spring Boot, REST APIs & MySQL**<br>- Exploring **JavaScript & React** for full-stack development<br>- Building practical projects and improving **software engineering skills**<br><br>📍 New Delhi, India
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyashh.maurya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauryashreyash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashmauryaspdf@gmail.com) 
