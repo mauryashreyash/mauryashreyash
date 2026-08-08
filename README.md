@@ -1,5 +1,5 @@
 # 💫 About Me:
-<sub>👋 <b>Hi, I'm Shreyash Maurya</b></sub><br><br><sub>🎓 Computer Science & Engineering Student</sub>  <br><sub>💻 Aspiring Java Backend Developer & Software Engineer</sub><br><br><sub><b>🔭 What I Do</b></sub><br><br><sub>I build practical applications with <b>Java, JDBC & MySQL</b> and practice <b>DSA</b> to improve my problem-solving skills.</sub><br><br><sub><b>🚀 What I'm Working Towards</b></sub><br><br><sub>Becoming a strong <b>Java Backend / Software Engineer</b> by building real-world projects and continuously improving my skills.</sub><br><br><br><sub><i>Learn • Build • Solve • Improve</i></sub>
+# Hi 👋, I'm Shreyash Maurya<br><br>### Computer Science & Engineering Student<br><br>💻 Aspiring Java Backend Developer & Software Engineer<br><br>## 🎯 Current Focus<br><br>- Mastering **Java & DSA** for strong problem-solving fundamentals<br>- Learning **Spring Boot, REST APIs & backend development**<br>- Exploring **JavaScript & React** to build full-stack applications<br>- Working with **MySQL, databases & software development practices**<br>- Building real-world projects and preparing for **Software Engineering roles**<br><br>📍 New Delhi, India
 
 
 ## 🌐 Socials:
