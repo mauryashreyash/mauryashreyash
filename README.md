@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Shreyash Maurya<br><br>🎓 Computer Science & Engineering Student  <br>💻 Aspiring Java Backend Developer & Software Engineer<br><br>## 🔭 What I Do<br><br>I build practical applications using **Java, JDBC & MySQL** and strengthen my problem-solving skills through **Data Structures & Algorithms**.<br><br>## 🚀 What I'm Working Towards<br><br>Becoming a strong **Java Backend / Software Engineer** by building real-world projects, improving my fundamentals, and continuously learning.<br><br>## 🛠️ Tech Stack<br><br>**Java** • **SQL** • **JDBC** • **MySQL** • **JavaScript** • **HTML** • **CSS** • **Git**
+<sub>👋 <b>Hi, I'm Shreyash Maurya</b></sub><br><br><sub>🎓 Computer Science & Engineering Student</sub>  <br><sub>💻 Aspiring Java Backend Developer & Software Engineer</sub><br><br><sub><b>🔭 What I Do</b></sub><br><br><sub>I build practical applications with <b>Java, JDBC & MySQL</b> and practice <b>DSA</b> to improve my problem-solving skills.</sub><br><br><sub><b>🚀 What I'm Working Towards</b></sub><br><br><sub>Becoming a strong <b>Java Backend / Software Engineer</b> by building real-world projects and continuously improving my skills.</sub><br><br><br><sub><i>Learn • Build • Solve • Improve</i></sub>
 
 
 ## 🌐 Socials:
