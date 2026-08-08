@@ -1,4 +1,7 @@
-**Hi 👋, I'm Shreyash Maurya**<br><br>*Computer Science & Engineering Student*<br>💻 Aspiring **Java Backend Developer & Software Engineer**
+**Hi 👋, I'm Shreyash Maurya**<br><br>
+*Computer Science & Engineering Student*<br>
+💻 Aspiring **Java Backend Developer & Software Engineer**<br>
+More about me: https://mauryashreyash.github.io/personal-portfolio/
 <br><br>
 **🎯 Current Focus**
 <br>
