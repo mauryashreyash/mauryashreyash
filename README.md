@@ -7,7 +7,7 @@ More about me: https://mauryashreyash.github.io/personal-portfolio/
 <br>
 - Strengthening **Java & DSA** for problem-solving<br>
 - Learning **Spring Boot, REST APIs & MySQL**<br>
-- Exploring **JavaScript & React** for full-stack development<br>
+- Exploring **React** for full-stack development<br>
 - Building practical projects and improving **software engineering skills**
 <br><br>
 📍 New Delhi, India
