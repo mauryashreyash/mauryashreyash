@@ -1,15 +1,16 @@
 **Hi 👋, I'm Shreyash Maurya**<br><br>
 *Computer Science & Engineering Student*<br>
-💻 Aspiring **Java Backend Developer & Software Engineer**<br>
-More about me: https://mauryashreyash.github.io/personal-portfolio/
+Building my way towards **Java Backend & Software Engineering**.<br>
+↳ [Portfolio](https://mauryashreyash.github.io/personal-portfolio/)
 <br><br>
-**🎯 Current Focus**
+
+**⚡ What I'm Working On**
 <br>
-- Strengthening **Java & DSA** for problem-solving<br>
-- Learning **Spring Boot, REST APIs & MySQL**<br>
-- Exploring **React** for full-stack development<br>
-- Building practical projects and improving **software engineering skills**
-<br><br>
+**Java & DSA** · **Spring Boot** · **REST APIs** · **MySQL** · **React**
+<br>
+
+Learning by building, breaking, debugging, and building again.
+<br>
 📍 New Delhi, India
 
 # 💻 Tech Stack:
