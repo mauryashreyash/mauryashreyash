@@ -25,10 +25,11 @@ Learning by building, breaking, debugging, and building again.
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyashh.maurya) -->
 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mauryashreyash&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://komarev.com/ghpvc/?username=mauryashreyash&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
