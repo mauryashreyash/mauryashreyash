@@ -26,13 +26,10 @@
 </br>
 
 
-<div align="center">
+ 💡 Build. Break. Debug. Repeat.
 
-### 💡 Build. Break. Debug. Repeat.
-
-**📍 New Delhi, India**
-
-</div>
+📍 New Delhi, India
+---
 
 
 # 💻 Tech Stack:
