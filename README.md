@@ -22,7 +22,7 @@
 
 **⚡ What I'm Working On**
 <br>
-**Java & DSA** · **Spring Boot** · **REST APIs** · **MySQL** · **React**
+**Java & DSA** · **Spring Boot** · **REST APIs** · **MySQL**· **JavaScript**
 </br>
 
 
